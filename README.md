@@ -4,7 +4,9 @@ This is for calculating the probability of getting Corona-Virus by inputting you
 
 ## Installation
 Download Python (https://www.python.org/downloads/)
+<br>
 Download Pip (https://pip.pypa.io/en/stable/installing/)
+<br>
 Head To Command Prompt On PC or Terminal On Mac / Linux (This is for PC running on Windows 10 2004 May Update , Mac And Linux migh trequire for you to edit it)
 ```python 
 pip install pandas 
@@ -17,7 +19,7 @@ pip install flask
 
 ## Usage
 Head to Command Prompt and type : 
-
+<br>
 ```python 
 cd "folder-downloaded-in"
 python "filename"
@@ -25,7 +27,7 @@ python "filename"
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
+<br>
 Please make sure to update tests as appropriate.
 
 ## My YouTube Channel 
