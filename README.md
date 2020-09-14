@@ -1,5 +1,6 @@
 # About
-This is for calculating the probability of getting Corona-Virus by inputting your data like age , body pain and other things. This was made for a Hackathon by WHJR Or WhiteHat JR.
+This is for calculating the probability of getting Corona-Virus by inputting your data like age , body pain and other things. This was made for a Hackathon by WHJR Or WhiteHat JR to defeat Covid-19. I am a coder in India which is in a serious crisis of COVID.
+
 
 ## Installation
 Download Python (https://www.python.org/downloads/)
