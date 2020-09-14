@@ -1,10 +1,5 @@
-pip install pandas 
-pip install numpy
-pip install pickle-mixin 
-pip install sklearn 
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
+# About
+This is for calculating the probability of getting Corona-Virus by inputting your data like age , body pain and other things. This was made for a Hackathon by WHJR Or WhiteHat JR.
 
 ## Installation
 Download Python (https://www.python.org/downloads/)
@@ -15,23 +10,22 @@ pip install pandas
 pip install numpy
 pip install pickle-mixin 
 pip install sklearn
+pip install flask 
 ```
 
 
 ## Usage
+Head to Command Prompt and type : 
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
+```python 
+cd "folder-downloaded-in"
+python "filename"
+``` 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## My YouTube Channel 
+PalPalash : https://www.youtube.com/channel/UCdfaHl9USu-J-kp4Bj_7J2Q 
