@@ -37,9 +37,10 @@ cd "folder-downloaded-in"
 python "filename"
 ``` 
 
-# Problems 
+## Problems 
 This will not work with two installations of Python like 3.8 and 2.7 it will cause problems! 
 If others please open a issue.
+
 ## Contributing 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 <br>
