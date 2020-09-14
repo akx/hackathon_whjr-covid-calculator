@@ -1,12 +1,55 @@
-# this is readme.md 
-# Requirements 
-# 1.python 
-# 2.pip 
-# 3.computer
-# install these with pip 
+# About
+This is for calculating the probability of getting Corona-Virus by inputting your data like age , body pain , difficulty in breathing and other things and genrates probability of getting COVID. 
+<br>
+This was made using Python , Jupyter , HTML , AI . 
+This was made for a Hackathon by WHJR Or WhiteHat JR to defeat Covid-19. I am a coder in India which is in a serious crisis of COVID.
+
+
+## Installation
+Download Python (https://www.python.org/downloads/)
+<br>
+Download Pip (https://pip.pypa.io/en/stable/installing/)
+<br>
+Head To Command Prompt On PC or Terminal On Mac / Linux (This is for PC running on Windows 10 2004 May Update , Mac & Linux might require for you to edit it)
+```python 
 pip install pandas 
 pip install numpy
 pip install pickle-mixin 
-pip install sklearn 
-# make sure to run it in Command prompt 
-python "file-directory"
+pip install sklearn
+pip install flask 
+```
+pandas:https://pypi.org/project/pandas/
+<br>
+numpy: https://pypi.org/project/numpy/
+<br>
+pickle-mixin: https://pypi.org/project/pickle-mixin/
+<br>
+sklearn:https://pypi.org/project/sklearn/
+<br>
+skit-learn: https://pypi.org/project/scikit-learn/
+<br>
+flask:https://pypi.org/project/Flask/
+<br>
+
+## Usage
+Head to Command Prompt and type : 
+<br>
+```python 
+cd "folder-downloaded-in"
+python "filename"
+``` 
+
+## Problems 
+This will not work with two installations of Python like 3.8 and 2.7 it will cause problems! 
+If others please open a issue.
+
+## Contributing 
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+<br>
+Please make sure to update tests as appropriate.
+
+## My YouTube Channel 
+<hr>
+PalPalash : https://www.youtube.com/channel/UCdfaHl9USu-J-kp4Bj_7J2Q 
+<br>
+Website : https://palashwhjr.wordpress.com
