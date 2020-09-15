@@ -8,6 +8,7 @@ This was made using Python , Jupyter , HTML , AI . This was made for a Hackathon
 [Download Python](https://www.python.org/downloads/)  
 <br>
 [Download Pip](https://pip.pypa.io/en/stable/installing/) 
+<br>
 Head To Command Prompt On PC or Terminal On Mac / Linux (This is for PC running on Windows 10 2004 May Update , Mac & Linux might require for you to edit it)
 
 ```python 
