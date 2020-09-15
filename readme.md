@@ -46,9 +46,9 @@ Please make sure to update tests as appropriate.
 * * *
 
 [My Youtube Channel  
-![YouTube](https://seeklogo.net/wp-content/uploads/2016/06/YouTube-icon.png)](https://www.youtube.com/channel/UCdfaHl9USu-J-kp4Bj_7J2Q)   
+![YouTube](https://seeklogo.net/wp-content/uploads/2016/06/YouTube-icon.png =50x50)](https://www.youtube.com/channel/UCdfaHl9USu-J-kp4Bj_7J2Q)   
 
 * * *
 
 [My Website  
-![Website](https://www.flaticon.com/svg/static/icons/svg/558/558593.svg)](https://palashwhjr.wordpress.com)
+![Website](https://www.flaticon.com/svg/static/icons/svg/558/558593.svg =50x50)](https://palashwhjr.wordpress.com)
