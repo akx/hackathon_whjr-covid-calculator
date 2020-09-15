@@ -9,7 +9,8 @@ This was made using Python , Jupyter , HTML , AI . This was made for a Hackathon
 <br>
 [Download Pip](https://pip.pypa.io/en/stable/installing/) 
 <br>
-Head To Command Prompt On PC or Terminal On Mac / Linux (This is for PC running on Windows 10 2004 May Update , Mac & Linux might require for you to edit it)
+<br>
+Head To Command Prompt On PC or Terminal On Mac / Linux and run the following: (This is for PC running on Windows 10 2004 May Update , Mac & Linux might require for you to edit it)
 
 ```python 
 pip install pandas 
@@ -67,3 +68,8 @@ Please make sure to update tests as appropriate.
    <img src="https://www.flaticon.com/svg/static/icons/svg/558/558593.svg"  width="50" height="50" alt="Website">
  </a>
  
+ <h2 id="stay-safe">Stay Safe</h2>
+ <center>
+<img src="https://png.pngtree.com/png-vector/20200402/ourlarge/pngtree-stay-home-stay-safe-from-corona-virus-png-image_2172959.jpg" alt="Stay Safe , Stay Home" align="middle"  width="150" height="150" style="display: block; margin-left : auto ; margin-right : auto ;">
+</center>
+<hr>
