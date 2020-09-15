@@ -5,8 +5,9 @@ This was made using Python , Jupyter , HTML , AI . This was made for a Hackathon
 
 ## Installation
 
-([Download Python](https://www.python.org/downloads/))  
-([Download Pip](https://pip.pypa.io/en/stable/installing/))  
+[Download Python](https://www.python.org/downloads/)  
+<br>
+[Download Pip](https://pip.pypa.io/en/stable/installing/) 
 Head To Command Prompt On PC or Terminal On Mac / Linux (This is for PC running on Windows 10 2004 May Update , Mac & Linux might require for you to edit it)
 
 ```python 
@@ -28,7 +29,7 @@ pip install flask
 Head to Command Prompt and type :  
 
 ```python 
-cd "folder-downloaded-in"
+cd /d "folder-containing"
 python "filename"
 ``` 
 
