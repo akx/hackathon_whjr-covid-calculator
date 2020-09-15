@@ -74,9 +74,5 @@ Please make sure to update tests as appropriate.
    <br>
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtk2f38p5OwDIgJTVj2kUEXYQ3eOl0Tm0l7_G0PTRg9g&usqp=CAU&ec=45699843"  width="71" height="70" alt="GitHub">
  </a>
- 
- <h2 id="stay-safe">Stay Safe</h2>
- <center>
-<img src="https://png.pngtree.com/png-vector/20200402/ourlarge/pngtree-stay-home-stay-safe-from-corona-virus-png-image_2172959.jpg" alt="Stay Safe , Stay Home" align="middle"  width="150" height="150" style="display: block; margin-left : auto ; margin-right : auto ;">
-</center>
-<hr>
+
+<img src="https://i.imgur.com/fyh4piZ.png" alt="Stay Safe , Stay Home" align="middle"  width="150" height="150" style="display: block; margin-left : auto ; margin-right : auto ;">
