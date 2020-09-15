@@ -67,6 +67,13 @@ Please make sure to update tests as appropriate.
    <br>
    <img src="https://www.flaticon.com/svg/static/icons/svg/558/558593.svg"  width="50" height="50" alt="Website">
  </a>
+ <br>
+<hr>
+<a href="https://github.com/PalPalash/hackathon_whjr-covid-calculator.git">
+   GitHub 
+   <br>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtk2f38p5OwDIgJTVj2kUEXYQ3eOl0Tm0l7_G0PTRg9g&usqp=CAU&ec=45699843"  width="71" height="70" alt="GitHub">
+ </a>
  
  <h2 id="stay-safe">Stay Safe</h2>
  <center>
