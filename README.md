@@ -1,7 +1,7 @@
 # About
 
 This is for calculating the probability of getting Corona-Virus by inputting your data like age , body pain , difficulty in breathing and other things and genrates probability of getting COVID.  
-This was made using Python , Jupyter , HTML , AI . This was made for a Hackathon by WHJR Or WhiteHat JR to defeat Covid-19\. I am a coder in India which is in a serious crisis of COVID.
+This was made using Python , Jupyter , HTML , AI . This was made for a Hackathon by WHJR Or WhiteHat JR to defeat Covid-19. I am a coder in India which is in a serious crisis of COVID.
 
 ## Installation
 

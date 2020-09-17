@@ -19,8 +19,8 @@ if __name__ == "__main__":
     df = pd.read_csv('data.csv')
     train ,test =  data_split(df, 0.2)
     
-    X_train = train[['fever' , 'bodyPain' , 'age' , 'runnyNose' , 'diffBreath' ]].to_numpy()
-    X_test = test[['fever' , 'bodyPain' , 'age' , 'runnyNose' , 'diffBreath' ]].to_numpy()
+    X_train = train[[' fever' , ' bodyPain' , ' age' , ' runnyNose' , ' diffBreath' ]].to_numpy()
+    X_test = test[[' fever' , ' bodyPain' , ' age' , ' runnyNose' , ' diffBreath' ]].to_numpy()
     
     Y_train = train[['infectionProb' ]].to_numpy().reshape(800,)
     Y_test = test[['infectionProb' ]].to_numpy().reshape(199,)
@@ -29,12 +29,8 @@ if __name__ == "__main__":
     file = open('model.pkl', 'wb')
     # dump information to that file
     pickle.dump(clf, file)
-
     clf = LogisticRegression()
     clf.fit(X_train,Y_train)
-    
-    # Code For Infrence
-    inputFeatures = [100,1,26,1,0]
-    infProb = clf.predict_proba([inputFeatures])[0][1]
+    file.close()
 
     
