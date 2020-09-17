@@ -40,35 +40,36 @@ python "filename"
 ``` 
 ## Problems
 This will not work with two installations of Python like 3.8 and 2.7 it will cause problems! If others please open a issue.
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
-Please make sure to update tests as appropriate.
-### Links
-* * *
-<a href="https://www.youtube.com/channel/UCdfaHl9USu-J-kp4Bj_7J2Q">
+
+<h2 id="contributing">Contributing</h2>
+<p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.<br>Please make sure to update tests as appropriate.</p>
+<h3 id="links">Links</h3>
+<hr>
+<p><a href="https://www.youtube.com/channel/UCdfaHl9USu-J-kp4Bj_7J2Q">
    My Youtube Channel
    <br>
    <img src="https://seeklogo.net/wp-content/uploads/2016/06/YouTube-icon.png" width="50" height="50" alt="YouTube">
  </a>
-<br>
-<hr>
+<br></p>
+<p><hr>
 <a href="https://www.youtube.com/watch?v=foAFoeomr98">
    My YouTube Livestream for it 
    <br>
    <img src="https://seeklogo.net/wp-content/uploads/2016/06/YouTube-icon.png" width="50" height="50" alt="YouTube">
  </a>
-<br>
-<hr>
+<br></p>
+<p><hr>
  <a href="https://palashwhjr.wordpress.com">
    My Website
    <br>
    <img src="https://www.flaticon.com/svg/static/icons/svg/558/558593.svg"  width="50" height="50" alt="Website">
  </a>
- <br>
-<hr>
+ <br></p>
+<p><hr>
 <a href="https://github.com/PalPalash/hackathon_whjr-covid-calculator.git">
    GitHub 
    <br>
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtk2f38p5OwDIgJTVj2kUEXYQ3eOl0Tm0l7_G0PTRg9g&usqp=CAU&ec=45699843"  width="71" height="70" alt="GitHub">
  </a>
-  <br>
+  <br></p>
+
