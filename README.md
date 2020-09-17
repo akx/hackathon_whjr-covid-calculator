@@ -21,7 +21,7 @@ pip install flask
 ```
 <br>
 <br>
- Or run pip-modules-installer to download pip modules
+ Or run pip-modules-installer to download the required pip modules and pip 
 
 [pandas](https://pypi.org/project/pandas/)  
 [numpy](https://pypi.org/project/numpy/)  
