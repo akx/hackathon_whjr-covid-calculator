@@ -21,10 +21,6 @@ pip install flask
 ```
 <br>
 <br>
- Or run pip-modules-installer to download the required pip modules and pip 
-<br>
-<br>
-
 <p>
  <a href="https://pypi.org/project/pandas/">pandas</a>
  <br>
@@ -36,6 +32,10 @@ pip install flask
  <br>
  <a href="https://pypi.org/project/scikit-learn/">skit-learn</a> 
 </p>
+
+Or run pip-modules-installer.py to download the required pip modules and pip 
+
+
  
 
 ## Usage
