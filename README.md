@@ -30,8 +30,8 @@ pip install flask
  <br>
  <a href="https://pypi.org/project/scikit-learn/">skit-learn</a> 
 </p>
-
-Or run pip-modules-installer.py to download the required pip modules and pip 
+<br>
+Or run pip-modules-installer.py to download the required pip modules and pip . By the way , it is a .bat file which means it will only work on Windows . Sorry Mac And Linux user you have to do it mannually 
 ## Usage
 Head to Command Prompt and type :  
 ```python 
