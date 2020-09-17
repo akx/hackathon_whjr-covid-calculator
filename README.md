@@ -32,14 +32,19 @@ pip install flask
 </p>
 <br>
 Or run pip-modules-installer.py to download the required pip modules and pip . By the way , it is a .bat file which means it will only work on Windows . Sorry Mac And Linux user you have to do it mannually 
-## Usage
-Head to Command Prompt and type :  
-```python 
-cd /d "folder-containing"
-python "filename"
-``` 
-## Problems
-This will not work with two installations of Python like 3.8 and 2.7 it will cause problems! If others please open a issue.
+
+<h2 id="usage">
+ Usage
+</h2>
+<p>
+ Head to Command Prompt and type :  
+</p>
+<pre><code class="lang-python"><span class="hljs-keyword">cd</span> /d <span class="hljs-string">"folder-containing"</span>
+<span class="hljs-keyword">python</span> <span class="hljs-string">"filename"</span>
+</code></pre>
+<h2 id="problems">Problems</h2>
+<p>This will not work with two installations of Python like 3.8 and 2.7 it will cause problems! If others please open a issue.</p>
+
 
 <h2 id="contributing">Contributing</h2>
 <p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.<br>Please make sure to update tests as appropriate.</p>
