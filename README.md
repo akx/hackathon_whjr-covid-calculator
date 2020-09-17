@@ -10,7 +10,7 @@ This was made using Python , Jupyter , HTML , AI . This was made for a Hackathon
 [Download Pip](https://pip.pypa.io/en/stable/installing/) 
 <br>
 <br>
-Head To Command Prompt On PC or Terminal On Mac / Linux and run the following: (This is for PC running on Windows 10 2004 May Update , Mac & Linux might require for you to edit it)
+Head To Command Prompt On PC or Terminal On Mac / Linux and run the following: (This is for PC running on Windows 10 2004 May Update , Mac & Linux might require for you to edit it) 
 
 ```python 
 pip install pandas 
@@ -19,6 +19,9 @@ pip install pickle-mixin
 pip install sklearn
 pip install flask 
 ```
+<br>
+<br>
+ Or run pip-modules-installer to download pip modules
 
 [pandas](https://pypi.org/project/pandas/)  
 [numpy](https://pypi.org/project/numpy/)  
