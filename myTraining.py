@@ -22,8 +22,8 @@ if __name__ == "__main__":
     X_train = train[[' fever' , ' bodyPain' , ' age' , ' runnyNose' , ' diffBreath' ]].to_numpy()
     X_test = test[[' fever' , ' bodyPain' , ' age' , ' runnyNose' , ' diffBreath' ]].to_numpy()
     
-    Y_train = train[['infectionProb' ]].to_numpy().reshape(800,)
-    Y_test = test[['infectionProb' ]].to_numpy().reshape(199,)
+    Y_train = train[[' infProb']].to_numpy().reshape(800,)
+    Y_test = test[[' infProb']].to_numpy().reshape(199,) 
 
     # open a file, where you ant to store the data
     file = open('model.pkl', 'wb')
