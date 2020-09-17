@@ -22,7 +22,8 @@ pip install flask
 <br>
 <br>
  Or run pip-modules-installer to download the required pip modules and pip 
-
+<br>
+<br>
 [pandas](https://pypi.org/project/pandas/)  
 [numpy](https://pypi.org/project/numpy/)  
 [pickle-mixin](https://pypi.org/project/pickle-mixin/)  
