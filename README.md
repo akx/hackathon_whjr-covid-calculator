@@ -19,9 +19,7 @@ pip install pickle-mixin
 pip install sklearn
 pip install flask 
 ```
-<br>
-<br>
-<p>
+<
  <a href="https://pypi.org/project/pandas/">pandas</a>
  <br>
  <a href="https://pypi.org/project/numpy/">numpy</a>
@@ -34,32 +32,19 @@ pip install flask
 </p>
 
 Or run pip-modules-installer.py to download the required pip modules and pip 
-
-
- 
-
 ## Usage
-
 Head to Command Prompt and type :  
-
 ```python 
 cd /d "folder-containing"
 python "filename"
 ``` 
-
 ## Problems
-
 This will not work with two installations of Python like 3.8 and 2.7 it will cause problems! If others please open a issue.
-
 ## Contributing
-
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
 Please make sure to update tests as appropriate.
-
 ### Links
-
 * * *
-
 <a href="https://www.youtube.com/channel/UCdfaHl9USu-J-kp4Bj_7J2Q">
    My Youtube Channel
    <br>
@@ -87,4 +72,3 @@ Please make sure to update tests as appropriate.
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtk2f38p5OwDIgJTVj2kUEXYQ3eOl0Tm0l7_G0PTRg9g&usqp=CAU&ec=45699843"  width="71" height="70" alt="GitHub">
  </a>
   <br>
-   
