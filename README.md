@@ -78,8 +78,4 @@ Please make sure to update tests as appropriate.
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtk2f38p5OwDIgJTVj2kUEXYQ3eOl0Tm0l7_G0PTRg9g&usqp=CAU&ec=45699843"  width="71" height="70" alt="GitHub">
  </a>
   <br>
-   <br>
-    <br>
-     <br>
-<hr>
-<img src="https://i.imgur.com/fyh4piZ.png" alt="Stay Safe , Stay Home" align="middle"  width="150" height="150" style="display: block; margin-left : auto ; margin-right : auto ;">
+   
