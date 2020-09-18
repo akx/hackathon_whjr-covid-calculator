@@ -13,22 +13,16 @@ This was made using Python , Jupyter , HTML , AI . This was made for a Hackathon
 Head To Command Prompt On PC or Terminal On Mac / Linux and run the following: (This is for PC running on Windows 10 2004 May Update , Mac & Linux might require for you to edit it) 
 
 ```python 
-pip install pandas 
-pip install numpy
-pip install pickle-mixin 
-pip install sklearn
-pip install flask 
+pip install -r requirements.txt
 ```
-<
+<p>
  <a href="https://pypi.org/project/pandas/">pandas</a>
  <br>
  <a href="https://pypi.org/project/numpy/">numpy</a>
  <br>
  <a href="https://pypi.org/project/pickle-mixin/">pickle-mixin</a>
  <br>
- <a href="https://pypi.org/project/sklearn/">sklearn</a>
- <br>
- <a href="https://pypi.org/project/scikit-learn/">skit-learn</a> 
+ <a href="https://pypi.org/project/scikit-learn/">scikit-learn</a> 
 </p>
 <br>
 Or run pip-modules-installer.py to download the required pip modules and pip . By the way , it is a .bat file which means it will only work on Windows . Sorry Mac And Linux user you have to do it mannually 
