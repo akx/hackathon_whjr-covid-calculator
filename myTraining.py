@@ -5,7 +5,7 @@ import pickle
 
 if __name__ == "__main__":
     df = pd.read_csv('data.csv')
-
+ 
 def data_split(data,ratio):
     np.random.seed(42)
     shuffled = np.random.permutation(len(data))
@@ -28,8 +28,8 @@ if __name__ == "__main__":
     # open a file, where you ant to store the data
     file = open('model.pkl', 'wb')
     # dump information to that file
-    pickle.dump(clf, file)
     clf = LogisticRegression()
+    pickle.dump(clf, file)
     clf.fit(X_train,Y_train)
     file.close()
 
